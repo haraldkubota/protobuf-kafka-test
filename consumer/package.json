@@ -1,0 +1,18 @@
+{
+  "name": "kafka-test",
+  "version": "1.0.0",
+  "description": "Testing KafkaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "Harald Kubota",
+  "license": "ISC",
+  "dependencies": {
+    "@kafkajs/confluent-schema-registry": "^2.0.1",
+    "kafkajs": "^1.15.0"
+  }
+}
